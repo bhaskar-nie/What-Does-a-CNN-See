@@ -1,4 +1,4 @@
-# What-Does-a-CNN-See
+# What does a CNN see?
 
 Refer to the below article for a clear understanding:
 
